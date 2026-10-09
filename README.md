@@ -28,7 +28,7 @@
 
 | Proyecto / Project | Qué hace / What it does | Tecnologías / Tech |
 | --- | --- | --- |
-| **[Naroz](https://www.naroz.app/)** · [Código / Code](https://github.com/ChristopherMarreroL/Naroz) | **ES:** Herramientas para convertir y editar archivos y contenido multimedia desde el navegador, con procesamiento local siempre que es posible.<br>**EN:** Browser-based tools to convert and edit files and media, with local processing whenever possible. | React, TypeScript, Vite, Tailwind CSS |
+| **[Naroz](https://www.naroz.app/)** | **ES:** Herramientas para convertir y editar archivos y contenido multimedia desde el navegador, con procesamiento local siempre que es posible.<br>**EN:** Browser-based tools to convert and edit files and media, with local processing whenever possible. | React, TypeScript, Vite, Tailwind CSS |
 | **[SargoTech](https://sargotech.com/)** | **ES:** Plataforma para anticipar la llegada del sargazo a las costas dominicanas mediante datos satelitales, IA y alertas predictivas, y apoyar la coordinación de la respuesta costera.<br>**EN:** A platform that uses satellite data, AI, and predictive alerts to anticipate sargassum along the Dominican coast and support coastal response. | Next.js, React, TypeScript, Tailwind CSS |
 | **[Portafolio personal / Personal portfolio](https://elchrispuntocom.vercel.app/)** · [Código / Code](https://github.com/ChristopherMarreroL/portafolio_mio) | **ES:** Sitio para presentar mis proyectos y trayectoria, con gestión de contenido mediante un panel administrativo.<br>**EN:** A site showcasing my projects and background, with an admin panel for content management. | Astro, TypeScript, Tailwind CSS, Supabase |
 
